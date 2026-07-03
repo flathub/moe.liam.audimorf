@@ -1,7 +1,7 @@
 {
     "id": "moe.liam.audimorf",
     "runtime": "org.gnome.Platform",
-    "runtime-version": "49",
+    "runtime-version": "50",
     "sdk": "org.gnome.Sdk",
     "sdk-extensions": [
         "org.freedesktop.Sdk.Extension.node20"
@@ -25,8 +25,8 @@
                 {
                     "type": "git",
                     "url": "https://codeberg.org/tehsquidge/Audimorf.git",
-                    "tag": "v1.2.0",
-                    "commit": "1c715bfca4eab4835c901a46dd748c0a3c232670"
+                    "tag": "v1.3.0",
+                    "commit": "93a8c4a3ef5b2ccb42238a40c94029e76de5f2be"
                 }
             ]
         }
