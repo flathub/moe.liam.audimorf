@@ -25,8 +25,8 @@
                 {
                     "type": "git",
                     "url": "https://codeberg.org/tehsquidge/Audimorf.git",
-                    "tag": "v1.4.0",
-                    "commit": "ec9a239af479955d8d4d93b64e65cb4b08f92e51"
+                    "tag": "v1.4.1",
+                    "commit": "46866ab1f682f894dce71789fd6091483939520e"
                 }
             ]
         }
